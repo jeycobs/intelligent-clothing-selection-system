@@ -30,7 +30,7 @@ cd backend
 Рекомендуется создать и активировать виртуальное окружение:
 python3 -m venv venv
 source venv/bin/activate  # Для macOS/Linux
-# venv\Scripts\activate   # Для Windows
+venv\Scripts\activate   # Для Windows
 
 Установите необходимые зависимости:
 pip install -r requirements.txt
