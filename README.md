@@ -1,1 +1,0 @@
-# intelligent-clothing-selection-system
